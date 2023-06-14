@@ -1,0 +1,5 @@
+{"level":"info","message":"Server listening on port 8080"}
+{"level":"info","message":"Connected to database"}
+{"level":"info","message":{"age":36878,"email":"Maril_Armijo@gmail.com","first_name":"Martín","last_name":"Castañeda","role":"usuario"}}
+{"level":"info","message":"El usuario ya está registrado"}
+{"level":"info","message":"El usuario ya está registrado"}
